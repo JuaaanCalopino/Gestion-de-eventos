@@ -34,7 +34,7 @@ El proyecto está compuesto por varias clases, enumeraciones e interfaces:
 
 ## Requisitos
 
-- JDK 11 o superior.
+
 - Un editor de texto como IntelliJ IDEA, Eclipse o cualquier editor compatible con Java.
 - Consola o terminal para compilar y ejecutar el proyecto.
 
